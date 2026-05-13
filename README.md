@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un desarrollador de 20 años con una sólida base técnica y ganas de crecer profesionalmente. Mi enfoque principal es el desarrollo de sistemas robustos, combinando conocimientos en frontend y backend con un fuerte interés en la arquitectura de software.
+Hola, me llamo Patrick Groves  soy un Joven de 19 años con ganas de crecer a nivel profesional. Mis conocimientos abarcan el desarrollo web con tecnologías como PHP, JavaScript, React y bases de datos SQL, entre otros. Parte de mis habilidades las he adquirido a través de cursos en línea, proyectos personales y colaboraciones en equipo, lo que me ha permitido desarrollar una sólida comprensión de estas tecnologías.
 
 - 🌐 **Web Personal**: [patrickgroves.dev](https://patrickgroves.dev)
 - 🎓 Actualmente cursando **Técnico en Sistemas** en la UMECIT.
