@@ -51,7 +51,7 @@ Hola, me llamo Patrick Groves  soy un Joven de 19 años con ganas de crecer a ni
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-groves-65a882301/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-groves-65a882301/](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqLPODmWwTgGRd%2BfYfF16%2Fw%3D%3D))
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patrickgroves.dev)
 
 </div>
