@@ -2,7 +2,7 @@
     <img alt="Patrick Groves" src="./assets/oh hi there.png" width="300"/>
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Hola, soy Patrick Groves</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Hola, soy Patrick Groves</h1>
 
 <div align="center">
 
@@ -14,11 +14,10 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un **Desarrollador Full-Stack** de 20 años apasionado por la arquitectura de software y el desarrollo de sistemas escalables.
+Hola, me llamo Patrick Groves  soy un Joven de 19 años con ganas de crecer a nivel profesional. Mis conocimientos abarcan el desarrollo web con tecnologías como PHP, JavaScript, React y bases de datos SQL, entre otros. Parte de mis habilidades las he adquirido a través de cursos en línea, proyectos personales y colaboraciones en equipo, lo que me ha permitido desarrollar una sólida comprensión de estas tecnologías.
 
-- 🎓 Actualmente cursando **Sistemas y Programación** en la UMECIT.
-- 🚀 Enfocado en **Arquitectura Hexagonal**, **DDD** y desarrollo de sistemas logísticos.
-- 📍 Basado en **Colón, Panamá**.
+- 🎓 Actualmente cursando **Sistemas y Programación** **Tecnico En Sisitemas** en la UMECIT.
+- 🚀 Enfocado en el backend con conocimientos en frontend (FullStack).
 - ⚡ **Fun Facts**: Entusiasta del fitness 🏋️‍♂️ y el levantamiento pesado.
 
 ---
@@ -40,9 +39,9 @@ Soy un **Desarrollador Full-Stack** de 20 años apasionado por la arquitectura d
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TuUsuarioDeGitHub&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patrickgrovess&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=tokyonight)](https://github.com/TuUsuarioDeGitHub/github-readme-stats)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickgrovess&show_icons=true&theme=tokyonight)](https://github.com/TuUsuarioDeGitHub/github-readme-stats)
 
 </div>
 
@@ -52,8 +51,7 @@ Soy un **Desarrollador Full-Stack** de 20 años apasionado por la arquitectura d
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqLPODmWwTgGRd%2BfYfF16%2Fw%3D%3D))
 
 </div>
 
